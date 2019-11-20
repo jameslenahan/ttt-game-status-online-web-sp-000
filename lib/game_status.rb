@@ -10,7 +10,9 @@ WIN_COMBINATIONS = [
   [6,7,9] #bottom row
   [0,4,9] #left>right diagonal
   [2,4,6] #right>left diagonal
-  [0,3,6] #left row 
+  [0,3,6] #left column
+  [1,4,7] #middle column
+  [3,5,9] #right column
   
   
   
