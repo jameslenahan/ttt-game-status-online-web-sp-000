@@ -15,5 +15,6 @@ WIN_COMBINATIONS = [
   [1, 4, 7], #middle column
   [2, 5, 8]  #right column
 ]
-for each win_combination in
-WIN_COMBINATIONS
+
+def won?(board)
+  
