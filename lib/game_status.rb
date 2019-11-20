@@ -5,4 +5,4 @@ end
 
 # Define your WIN_COMBINATIONS constant
 def WIN_COMINATIONS(board)
-  
+  if top_row_win
